@@ -1,0 +1,15 @@
+{
+	"name": "snapchat-memories-downloader",
+	"description": "Script to download all your Snapchat memories",
+	"authors": "Mahesh G",
+	"version": "1.0.0",
+	"main": "main.js",
+	"scripts": {
+		"start": "node main.js"
+	},
+	"dependencies": {
+		"commander": "^8.3.0",
+		"moment": "^2.29.1",
+		"utimes": "^4.1.1"
+	}
+}

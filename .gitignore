@@ -1,1 +1,5 @@
-*.json
+memories_history.json
+memories_history_1.json
+.vscode
+Downloads
+node_modules
